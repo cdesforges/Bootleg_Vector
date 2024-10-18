@@ -1,0 +1,3 @@
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/Bootleg_Vector/cmake-build-debug/CMakeFiles/Bootleg_Vector.dir
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/Bootleg_Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/Bootleg_Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

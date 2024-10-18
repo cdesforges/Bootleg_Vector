@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bootleg_Vector",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bootleg_Vector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bootleg_Vector-Debug-7364d6cd09fabc36b94e.json",
+					"name" : "Bootleg_Vector",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/Bootleg_Vector/cmake-build-debug",
+		"source" : "/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/Bootleg_Vector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
